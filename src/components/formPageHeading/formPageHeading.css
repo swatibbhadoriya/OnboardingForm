@@ -1,0 +1,18 @@
+.form-page-heading-parent-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: -40px;
+}
+
+.form-page-heading-parent-div h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.form-page-heading-parent-div p{
+    font-size: 14px;
+    color: #818ca0;
+    font-weight: 600;
+margin-bottom:40px
+}

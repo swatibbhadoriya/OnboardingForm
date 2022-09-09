@@ -1,0 +1,11 @@
+.form-button {
+    width: 370px;
+    height: 50px;
+    outline: none;
+    border: 0px;
+    border-radius: 7px;
+    padding: 12px 10px;
+    background: #654de5;
+    color: white;
+    margin-top: 30px;
+}

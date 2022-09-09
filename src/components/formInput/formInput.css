@@ -1,0 +1,57 @@
+.form-input-parent-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-input-parent-div label {
+    color: #595f69;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+
+.form-input-parent-div input {
+    width: 370px;
+    border: 1px solid #b7c0ce82;
+    border-radius: 7px;
+
+
+    padding: 10px 10px;
+}
+
+.url {
+    display: flex;
+    width: 370px;
+    flex-wrap: wrap;
+
+
+
+
+}
+
+.urlexample {
+
+    max-width: 35%;
+    border-top-right-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+    background-color: #f8f9fc;
+    font-size: 13px;
+    color: #a1acc0;
+
+
+}
+
+.form-input-parent-div ::placeholder {
+    color: #b8bfca
+}
+
+.urlinput {
+    border-top-left-radius: 0px !important;
+    border-bottom-left-radius: 0px !important;
+
+    max-width: 65%;
+}
+
+small {
+    color: #ccd3e1;
+}
